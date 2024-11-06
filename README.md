@@ -19,7 +19,7 @@
 <h1 align="start"> Contatos </h1>
 <a href = "mailto:lucamr150405@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-   <a align="center" href="[(www.linkedin.com/in/luca-mazieiro-ribeiro)]" target="_blank">
+   <a align="center" href="[([www.linkedin.com/in/luca-mazieiro-ribeiro](https://www.linkedin.com/in/luca-mazieiro-ribeiro/))]" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
