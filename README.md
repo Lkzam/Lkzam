@@ -2,9 +2,6 @@
 
 
 
-   <div align="center">    
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lkzam&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&layout=compact"/>
-   </div>
   
   
 <div align="center" style="display: inline_block"><br>
