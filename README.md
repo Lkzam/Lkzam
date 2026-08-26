@@ -2,43 +2,30 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="RS Solutions" src="./assets/rs solution.png"/>](#)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**Engenheiro de Software** \
+[**RS Solutions**](#) • Tempo integral • out/2024 - o momento \
+Linguagens & Tecnologias: `React.js`, `AWS`, `Node`, `TypeScript` \
+Campinas, São Paulo, Brasil
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Segbio Equipamentos de Segurança" src="./assets/segbio.png"/>](#)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**UI Developer** \
+[**Segbio Equipamentos de Segurança**](#) • Tempo integral • jan/2024 - set/2024 \
+Linguagens & Tecnologias: `Adobe Photoshop`, `Motion Design`, `HTML`, `CSS` \
+Campinas, São Paulo, Brasil
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Nubank" src="https://nubank.com.br/images/nu-icon.png?v=2"/>](https://nubank.com.br/)
+[<img align="left" height="94px" width="94px" alt="Synvia" src="./assets/synvia.png"/>](#)
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
+**Desenvolvedor Full Stack** \
+[**Synvia**](#) • Híbrido • jan/2023 - dez/2023 \
+Linguagens & Tecnologias: `JavaScript`, `React`, `SQL`, `AWS`, `HTML`, `CSS` \
+Paulínia, São Paulo, Brasil
 <br/>
 <br/>
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-
-
-  
-  
-
-
-
-
-
-
   <picture>
   <source
     media="(prefers-color-scheme: dark)"
