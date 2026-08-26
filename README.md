@@ -33,9 +33,7 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para
 
   
   
-<div align="center" style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js,python,nodejs,nextjs,mongodb" />
-</div>
+
 
 
 
