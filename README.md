@@ -2,7 +2,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="RS Solutions" src="./assets/rs solution.png"/>](#)
+[<img align="left" height="94px" width="94px" alt="RS Solutions" src="./assets/rs solution.png"/>](https://www.colibri.com.br/)
 
 **Engenheiro de Software** \
 [**RS Solutions**](#) • Tempo integral • out/2024 - o momento \
