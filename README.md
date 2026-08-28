@@ -5,23 +5,23 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 [<img align="left" height="94px" width="94px" alt="RS Solutions" src="./assets/rs solution.png"/>](https://www.colibri.com.br/)
 
 **Engenheiro de Software** \
-[**RS Solutions**](#) • Tempo integral • out/2024 - o momento \
+[**RS Solutions**](https://www.colibri.com.br/) • Tempo integral • out/2024 - o momento \
 Linguagens & Tecnologias: `React.js`, `AWS`, `Node`, `TypeScript` \
 Campinas, São Paulo, Brasil
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Segbio Equipamentos de Segurança" src="./assets/segbio.png"/>](#)
+[<img align="left" height="94px" width="94px" alt="Segbio Equipamentos de Segurança" src="./assets/segbio.png"/>](https://www.loja.segbio.com.br/)
 
 **UI Developer** \
-[**Segbio Equipamentos de Segurança**](#) • Tempo integral • jan/2024 - set/2024 \
+[**Segbio Equipamentos de Segurança**](https://www.loja.segbio.com.br/) • Tempo integral • jan/2024 - set/2024 \
 Linguagens & Tecnologias: `Adobe Photoshop`, `Motion Design`, `HTML`, `CSS` \
 Campinas, São Paulo, Brasil
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Synvia" src="./assets/synvia.png"/>](#)
+[<img align="left" height="94px" width="94px" alt="Synvia" src="./assets/synvia.png"/>](https://synvia.com/)
 
 **Desenvolvedor Full Stack** \
-[**Synvia**](#) • Híbrido • jan/2023 - dez/2023 \
+[**Synvia**](https://synvia.com/) • Híbrido • jan/2023 - dez/2023 \
 Linguagens & Tecnologias: `JavaScript`, `React`, `SQL`, `AWS`, `HTML`, `CSS` \
 Paulínia, São Paulo, Brasil
 <br/>
